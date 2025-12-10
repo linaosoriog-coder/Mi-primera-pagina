@@ -86,3 +86,7 @@ adelante(5)
 abajo(2)
 Explicación:
 Se reutilizan las funciones adelante() y abajo() para construir una escalera, donde cada escalón tiene un tramo horizontal y uno vertical.
+
+Referencias de IA
+
+ChatGPT: Apoyo en la solución, estructura del código y explicaciones de los ejercicios de la Unidad 1.
