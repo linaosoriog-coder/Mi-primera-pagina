@@ -6,6 +6,7 @@
 ## 🐢 Reto 1: Simular el comportamiento de la tortuga 
 **Enunciado:**  
 Simular el movimiento de una tortuga usando solo `print()` e `input()`.
+
 Este es el código paso hacia adelante y pide los pasos (n) 
 tortuga = ">"
 pasos_adelante= int (input("Ingrese el número de pasos hacia adelante: "))
