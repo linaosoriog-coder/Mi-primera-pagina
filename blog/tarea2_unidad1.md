@@ -1,10 +1,9 @@
 ---
 title: "Tarea 2 - Ejercicios Unidad 1"
-permalink: /blog/tarea2_unidad1/
+permalink: /MiTortuga/
 ---
 
-# 🐢 Tarea 2 — Ejercicios Unidad 1
+# 🐢 Mi Tortuga
 
 ## Introducción
-En esta entrada se desarrollan los ejercicios de la Unidad 1 del curso Pensamiento Algorítmico, utilizando Python y simulando el comportamiento de una tortuga mediante texto.
-
+En este trabajo se desarrolla una simulación del comportamiento de una tortuga utilizando Python, sin usar la librería turtle. El objetivo es comprender el uso de variables, funciones, ciclos y entrada por teclado.
