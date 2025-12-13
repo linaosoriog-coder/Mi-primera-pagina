@@ -53,5 +53,6 @@ Aprender Python ayuda a entender mejor cómo se conecta todo, ya que con variabl
 **REFERENCIAS**
 https://chatgpt.com/c/690fead2-fed8-8325-bb1d-0804081f93de
 
+**Aprendiendo a programar como una tortuga**
 https://github.com/linaosoriog-coder/Mi-primera-pagina/blob/Mi-primera-p%C3%A1gina/tarea2/README.md
 
