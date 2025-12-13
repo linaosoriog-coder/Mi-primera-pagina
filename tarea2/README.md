@@ -108,5 +108,3 @@ print(espacios_acumulados + "v")
 
 ### ✅ Solución en Python
 <img width="700" height="165" alt="image" src="https://github.com/user-attachments/assets/d127f099-fa85-4f9d-9498-ed7f7c57b2ad" />
-
-
