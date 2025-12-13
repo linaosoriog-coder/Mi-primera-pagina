@@ -2,6 +2,11 @@
 ## Aprendiendo a programar como una tortuga
 
 ---
-<img width="515" height="78" alt="image" src="https://github.com/user-attachments/assets/667045be-bff1-46c6-8d01-cc219ebbc73f" />
-<img width="605" height="140" alt="image" src="https://github.com/user-attachments/assets/4bd2e707-7fd3-469d-a777-f88c93c90129" />
 
+## 🐢 Ejercicio 1: Simular el comportamiento de la tortuga con texto
+
+**Enunciado:**  
+Simula el movimiento de la tortuga usando solo `print()` e `input()`.
+
+### ✅ Solución en Python
+<img width="698" height="137" alt="image" src="https://github.com/user-attachments/assets/789976c5-0750-4ed5-9eee-c0da0712675c" />
