@@ -2,7 +2,6 @@
 ## Aprendiendo a programar como una tortuga
 
 ---
-
-## Reto 1: Simular la tortuga con texto
-<img width="575" height="78" alt="image" src="https://github.com/user-attachments/assets/fa942a48-563d-44a3-b1bc-a2ee3771776f" />
+<img width="515" height="78" alt="image" src="https://github.com/user-attachments/assets/667045be-bff1-46c6-8d01-cc219ebbc73f" />
+<img width="605" height="140" alt="image" src="https://github.com/user-attachments/assets/4bd2e707-7fd3-469d-a777-f88c93c90129" />
 
