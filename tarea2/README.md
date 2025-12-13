@@ -3,10 +3,9 @@
 
 ---
 
-## 🐢 Ejercicio 1: Simular el comportamiento de la tortuga con texto
-
+## 🐢 Reto 1: Simular el comportamiento de la tortuga 
 **Enunciado:**  
-Simula el movimiento de la tortuga usando solo `print()` e `input()`.
+Simular el movimiento de una tortuga usando solo `print()` e `input()`.
 
 ### ✅ Solución en Python
 <img width="698" height="137" alt="image" src="https://github.com/user-attachments/assets/789976c5-0750-4ed5-9eee-c0da0712675c" />
