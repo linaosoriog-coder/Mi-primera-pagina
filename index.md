@@ -61,14 +61,10 @@ https://chatgpt.com/c/690fead2-fed8-8325-bb1d-0804081f93de
 
 👉 [Ver desarrollo completo de la Tarea 2](tarea2/)
 
-# Página personal – Lina Osorio
-
 ## 🐢 Tarea Mini-Turtle
 
-En esta sección se presentan los enlaces a los ejercicios desarrollados en la tarea Mini-Turtle.
+- **Ejercicio 1 – Versión Funcional:**  
+  [Ir al repositorio del Ejercicio 1](https://github.com/linaosoriog-coder/mini_turtle)
 
-- **Ejercicio 1 – Versión Funcional (Modularidad):**  
-  👉 [Ver repositorio del Ejercicio 1](https://github.com/linaosoriog-coder/Ejercicio-1)
-
-- **Ejercicio 2 – Versión Orientada a Objetos (POO):**  
-  👉 [Ver repositorio del Ejercicio 2](https://github.com/linaosoriog-coder/Ejercicio-2)
+- **Ejercicio 2 – Versión Orientada a Objetos:**  
+  [Ir al repositorio del Ejercicio 2](https://github.com/linaosoriog-coder/mini_turtle_oo)
