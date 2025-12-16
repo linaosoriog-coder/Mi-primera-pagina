@@ -172,10 +172,13 @@ Aprender Python permite comprender mejor esta conexión, ya que mediante variabl
 
 👉 [Ver desarrollo completo de la Tarea 2](tarea2/)
 
-## 🐢 Tarea Mini-Turtle
 
-- **Ejercicio 1 – Versión Funcional:**  
-  [Ir al repositorio del Ejercicio 1](https://github.com/linaosoriog-coder/mini_turtle)
+### 🔹 Ejercicio 1 – Versión Funcional
+Simulación del movimiento de la tortuga usando funciones y variables.
 
-- **Ejercicio 2 – Versión Orientada a Objetos:**  
-  [Ir al repositorio del Ejercicio 2](https://github.com/linaosoriog-coder/mini_turtle_oo)
+👉 [Ver Ejercicio 1](https://github.com/linaosoriog-coder/Ejercicio-1)
+
+### 🔹 Ejercicio 2 – Versión Orientada a Objetos
+Implementación de la clase Tortuga usando programación orientada a objetos.
+
+👉 [Ver Ejercicio 2](https://github.com/linaosoriog-coder/Ejercicio-2)
