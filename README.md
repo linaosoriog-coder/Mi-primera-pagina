@@ -167,15 +167,14 @@ Aprender Python permite comprender mejor esta conexión, ya que mediante variabl
 
 * [https://chatgpt.com/c/690fead2-fed8-8325-bb1d-0804081f93de](https://chatgpt.com/c/690fead2-fed8-8325-bb1d-0804081f93de)
 
+🐢 Tarea 2 – Aprendiendo a programar como una tortuga
 
-## Tarea 2 – Aprendiendo a programar como una tortuga
+👉 Ver desarrollo completo de la Tarea 2
 
-👉 [Ver desarrollo completo de la Tarea 2](tarea2/)
+🐢 Tarea Mini-Turtle
 
-## 🐢 Tarea Mini-Turtle
+Ejercicio 1 – Versión Funcional:
+https://github.com/linaosoriog-coder/mini_turtle
 
-- **Ejercicio 1 – Versión Funcional:**  
-  [Ir al repositorio del Ejercicio 1](https://github.com/linaosoriog-coder/mini_turtle)
-
-- **Ejercicio 2 – Versión Orientada a Objetos:**  
-  [Ir al repositorio del Ejercicio 2](https://github.com/linaosoriog-coder/mini_turtle_oo)
+Ejercicio 2 – Versión Orientada a Objetos:
+https://github.com/linaosoriog-coder/mini_turtle_oo
