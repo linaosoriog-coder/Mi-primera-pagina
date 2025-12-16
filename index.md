@@ -172,10 +172,5 @@ Aprender Python permite comprender mejor esta conexión, ya que mediante variabl
 
 👉 [Ver desarrollo completo de la Tarea 2](tarea2/)
 
-🐢 Tarea Mini-Turtle
-
-Ejercicio 1 – Versión Funcional:
-https://github.com/linaosoriog-coder/mini_turtle
-
-Ejercicio 2 – Versión Orientada a Objetos:
-https://github.com/linaosoriog-coder/mini_turtle_oo
+- Ejercicio 1 – Versión Funcional: [Ir al repositorio](https://github.com/linaosoriog-coder/mini_turtle)
+- Ejercicio 2 – Versión Orientada a Objetos: [Ir al repositorio](https://github.com/linaosoriog-coder/mini_turtle_oo)
