@@ -172,20 +172,19 @@ Aprender Python permite comprender mejor esta conexión, ya que mediante variabl
 
 👉 [Ver desarrollo completo de la Tarea 2](tarea2/)
 
+---
+
 ## 🐢 Tarea Mini-Turtle
 
-En esta actividad se desarrollaron ejercicios para simular el movimiento de una tortuga
-utilizando únicamente texto en Python. El objetivo fue comprender la lógica de programación,
-el uso de funciones y la diferencia entre programación funcional y orientada a objetos.
-
 ### 🔹 Ejercicio 1 – Versión Funcional
-Se simula el movimiento de la tortuga utilizando funciones simples, variables globales y
-caracteres de texto para representar los desplazamientos hacia adelante y hacia abajo.
+Se simula el movimiento de la tortuga utilizando funciones simples, variables globales y caracteres de texto para representar los desplazamientos hacia adelante y hacia abajo.
 
-👉 [Ver repositorio del Ejercicio 1](https://github.com/linaosoriog-coder/Ejercicio-1)
+👉 [Ver repositorio del Ejercicio 1](https://github.com/linaosoriog-coder/mini_turtle)
+
+---
 
 ### 🔹 Ejercicio 2 – Versión Orientada a Objetos
-Se implementa una clase `Tortuga` que encapsula el estado del movimiento, permitiendo crear
-varias tortugas independientes y aplicar conceptos de programación orientada a objetos.
+Se implementa una clase `Tortuga` que encapsula el estado del movimiento, permitiendo crear varias tortugas independientes y aplicar conceptos de programación orientada a objetos.
 
-👉 [Ver repositorio del Ejercicio 2](https://github.com/linaosoriog-coder/Ejercicio-2)
+👉 [Ver repositorio del Ejercicio 2](https://github.com/linaosoriog-coder/mini_turtle_oo)
+
