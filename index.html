@@ -1,240 +1,133 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Mi primera página</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      line-height: 1.6;
-      margin: 20px;
-    }
-    hr {
-      border: 1px solid #ccc;
-    }
-    code {
-      background-color: #f4f4f4;
-      padding: 2px 4px;
-      border-radius: 4px;
-    }
-    pre {
-      background-color: #f4f4f4;
-      padding: 10px;
-      overflow-x: auto;
-    }
-  </style>
+    <meta charset="UTF-8">
+    <title>Mi Primera Página Web</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+            background-color: #f5f7fa;
+            color: #333;
+            margin: 0;
+            padding: 0;
+            line-height: 1.6;
+        }
+        header {
+            background-color: #4f46e5;
+            color: white;
+            padding: 30px;
+            text-align: center;
+        }
+        section {
+            max-width: 900px;
+            margin: 30px auto;
+            background: white;
+            padding: 25px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.08);
+        }
+        h2 {
+            color: #4f46e5;
+        }
+        code, pre {
+            background: #f0f0f0;
+            padding: 10px;
+            border-radius: 5px;
+            display: block;
+            overflow-x: auto;
+        }
+        a {
+            color: #4f46e5;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        footer {
+            text-align: center;
+            padding: 20px;
+            color: #777;
+        }
+    </style>
 </head>
 <body>
 
-  <h1>🌐 Mi primera página</h1>
+<header>
+    <h1>🌐 Mi Primera Página Web</h1>
+    <p>Hardware, Software y Programación en Python</p>
+</header>
 
-  <h2>📌 Punto Tres</h2>
+<section>
+    <h2>💻 El Hardware</h2>
+    <p>El <strong>hardware</strong> es la parte física del computador, todo lo que se puede ver y tocar.</p>
+    <ul>
+        <li><strong>Teclado:</strong> Entrada</li>
+        <li><strong>CPU:</strong> Procesamiento</li>
+        <li><strong>RAM / Disco:</strong> Almacenamiento</li>
+        <li><strong>Pantalla:</strong> Salida</li>
+    </ul>
+</section>
 
-  <hr>
+<section>
+    <h2>🧠 El Software</h2>
+    <p>El software es el conjunto de instrucciones que le dicen al hardware qué hacer.</p>
+    <p>El sistema operativo y los drivers permiten la comunicación entre ambos.</p>
+</section>
 
-  <h2>💻 El Hardware</h2>
+<section>
+    <h2>🐍 Python</h2>
+    <p>Python es un lenguaje sencillo y fácil de aprender.</p>
+    <pre>
+nombre = input("¿Cómo te llamas? ")
+print("¡Hola, " + nombre + "! Bienvenido a Python")
+    </pre>
+</section>
 
-  <p>
-    El <strong>hardware</strong> es la parte física del computador; es decir,
-    todos los componentes que se pueden <strong>ver y tocar</strong>.
-  </p>
+<section>
+    <h2>📦 Variables y Operadores</h2>
+    <p>Una <strong>variable</strong> almacena un valor en la memoria.</p>
+    <p>Tipos de valores:</p>
+    <ul>
+        <li>Texto (str)</li>
+        <li>Entero (int)</li>
+        <li>Decimal (float)</li>
+        <li>Lógico (bool)</li>
+    </ul>
+</section>
 
-  <h3>Ejemplo:</h3>
-  <p>Cuando escribes un documento:</p>
-  <ul>
-    <li>Usas el <strong>teclado</strong> (entrada) para escribir.</li>
-    <li>La <strong>CPU</strong> (procesamiento) interpreta cada letra.</li>
-    <li>El texto se guarda en la <strong>RAM</strong> o en el <strong>disco</strong> (almacenamiento).</li>
-    <li>Finalmente, lo ves en la <strong>pantalla</strong> (salida).</li>
-  </ul>
-
-  <hr>
-
-  <h2>🧠 El Software</h2>
-
-  <p>
-    La conexión entre el <strong>software</strong> y el <strong>hardware</strong>
-    es fundamental para que un computador funcione correctamente.
-  </p>
-
-  <ul>
-    <li>El <strong>hardware</strong> es el <em>cuerpo</em> (componentes físicos).</li>
-    <li>El <strong>software</strong> es el <em>cerebro</em> (instrucciones que indican qué hacer).</li>
-  </ul>
-
-  <p>
-    La comunicación entre ambos se realiza a través del
-    <strong>sistema operativo</strong> y los <strong>controladores (drivers)</strong>.
-  </p>
-
-  <hr>
-
-  <h2>🧩 Lenguajes de Programación</h2>
-
-  <p>
-    Los <strong>lenguajes de programación</strong> son un medio de comunicación
-    entre el ser humano y el computador.
-  </p>
-
-  <p>
-    Permiten dar instrucciones precisas al hardware a través del software.
-    En lugar de usar lenguaje binario (ceros y unos), utilizan
-    <strong>palabras, símbolos y reglas</strong> que los programadores pueden entender fácilmente.
-  </p>
-
-  <hr>
-
-  <h2>🐍 Python</h2>
-
-  <p>Python es un lenguaje de programación sencillo y fácil de aprender.</p>
-
-  <h3>📌 Ejemplo</h3>
-
-  <pre><code>nombre = input("¿Cómo te llamas? ")
-print("¡Hola, " + nombre + "! Bienvenido a Python")</code></pre>
-
-  <h3>📝 Explicación paso a paso</h3>
-
-  <ul>
-    <li><code>input("¿Cómo te llamas? ")</code>: muestra un mensaje y espera que el usuario escriba su nombre.</li>
-    <li>El valor ingresado se guarda en la variable <code>nombre</code>.</li>
-    <li><code>print(...)</code>: muestra en pantalla un saludo usando el nombre ingresado.</li>
-  </ul>
-
-  <hr>
-
-  <h2>📦 Variables, Valores y Operadores en Python</h2>
-
-  <h3>¿Qué es una variable?</h3>
-  <p>
-    Una <strong>variable</strong> es un espacio en la memoria del computador donde
-    se <strong>guarda un valor</strong>.
-  </p>
-
-  <h3>¿Qué es un valor?</h3>
-  <p>Un <strong>valor</strong> es la información almacenada en una variable.</p>
-
-  <ul>
-    <li>Texto (<code>str</code>)</li>
-    <li>Número entero (<code>int</code>)</li>
-    <li>Número decimal (<code>float</code>)</li>
-    <li>Lógico (<code>bool</code>)</li>
-  </ul>
-
-  <hr>
-
-  <h2>➕ Operadores en Python</h2>
-
-  <h3>Operadores aritméticos</h3>
-
-  <pre><code>+    Suma
--    Resta
-*    Multiplicación
-/    División
-//   División entera
-%    Módulo
-**   Potencia</code></pre>
-
-  <hr>
-
-  <h2>🔢 Orden de las Operaciones en Python</h2>
-
-  <ol>
-    <li>Paréntesis <code>( )</code></li>
-    <li>Potencias <code>**</code></li>
-    <li>Multiplicación, División, División entera y Módulo <code>*, /, //, %</code></li>
-    <li>Suma y Resta <code>+ , -</code></li>
-  </ol>
-
-  <hr>
-
-  <h2>🔤 Operaciones con Cadenas de Texto</h2>
-
-  <pre><code>mensaje = "Hola"
-nombre = 'Lina'</code></pre>
-
-  <hr>
-
-  <h2>⌨️ Lectura y Escritura de Valores</h2>
-
-  <ul>
-    <li><strong>Leer datos</strong> del usuario con <code>input()</code></li>
-    <li><strong>Mostrar resultados</strong> en pantalla con <code>print()</code></li>
-  </ul>
-
-  <hr>
-
-  <h2>🌍 Alcance de las Variables</h2>
-
-  <h3>Variables globales</h3>
-  <ul>
-    <li>Se declaran fuera de las funciones.</li>
-    <li>Pueden usarse en cualquier parte del programa.</li>
-  </ul>
-
-  <h3>Variables locales</h3>
-  <ul>
-    <li>Se declaran dentro de una función.</li>
-    <li>Solo existen mientras la función se ejecuta.</li>
-  </ul>
-
-  <hr>
-
-  <h2>🔀 Condicionales</h2>
-
-  <pre><code>if condicion:
-    # Código si la condición es verdadera
-elif otra_condicion:
-    # Código si la anterior fue falsa y esta verdadera
+<section>
+    <h2>🔀 Condicionales</h2>
+    <pre>
+if condicion:
+    print("Verdadero")
 else:
-    # Código si ninguna condición fue verdadera</code></pre>
+    print("Falso")
+    </pre>
+</section>
 
-  <hr>
+<section>
+    <h2>🐢 Tarea Mini-Turtle</h2>
+    <ul>
+        <li>
+            Ejercicio 1 – Versión Funcional:  
+            <a href="https://github.com/linaosoriog-coder/mini_turtle" target="_blank">
+                Ir al repositorio
+            </a>
+        </li>
+        <li>
+            Ejercicio 2 – Versión Orientada a Objetos:  
+            <a href="https://github.com/linaosoriog-coder/mini_turtle_oo" target="_blank">
+                Ir al repositorio
+            </a>
+        </li>
+    </ul>
+</section>
 
-  <h2>✍️ Reflexión</h2>
-
-  <p>
-    El hardware, el software y los lenguajes de programación trabajan juntos
-    para que un computador funcione correctamente.
-  </p>
-
-  <hr>
-
-  <h2>📚 Referencias</h2>
-
-  <ul>
-    <li>
-      <a href="https://chatgpt.com/c/690fead2-fed8-8325-bb1d-0804081f93de">
-        ChatGPT – Conversación de apoyo
-      </a>
-    </li>
-  </ul>
-
-  <hr>
-
-  <h2>🐢 Tarea 2 – Aprendiendo a programar como una tortuga</h2>
-
-  <p>
-    👉 <a href="tarea2/">Ver desarrollo completo de la Tarea 2</a>
-  </p>
-
-  <h2>🐢 Tarea Mini-Turtle</h2>
-
-  <ul>
-    <li>
-      <strong>Ejercicio 1 – Versión Funcional:</strong>
-      <a href="https://github.com/linaosoriog-coder/mini_turtle" target="_blank">
-        Ir al repositorio
-      </a>
-    </li>
-    <li>
-      <strong>Ejercicio 2 – Versión Orientada a Objetos:</strong>
-      <a href="https://github.com/linaosoriog-coder/mini_turtle_oo" target="_blank">
-        Ir al repositorio
-      </a>
-    </li>
-  </ul>
+<footer>
+    <p>© 2025 · Página creada por Lina</p>
+</footer>
 
 </body>
 </html>
